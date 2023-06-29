@@ -1,0 +1,17 @@
+#email {
+  width: 545px;
+  height: 48px;
+  
+}
+#pass {
+  width: 545px;
+  height: 48px;
+  margin-bottom: 20px;
+}
+
+.sign-in-btn{
+    margin-bottom: 20px;
+}
+body {
+  margin: 20px;
+}
