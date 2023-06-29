@@ -37,7 +37,7 @@ function App() {
         title: newMovieTitle,
         date: newMovieReleaseDate,
         flop_hit: isNewMovieOscar,
-        userId: auth?.currentUser?.uid,
+        // userId: auth?.currentUser?.uid,
       });
       setChange(!change);
     } catch (error) {
